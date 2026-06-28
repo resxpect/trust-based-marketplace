@@ -16,7 +16,7 @@ A responsive landing page showcasing the concept of a trust-first marketplace fo
 
 ## Project
 
-This landing page represents the public facing concept of RESXPECT, a marketplace that explores trust, reputation, and transparent collaboration between users.
+This landing page showcases a trust-first marketplace concept focused on transparency, reputation, and collaboration between users.
 
 ## Author
 
